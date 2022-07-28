@@ -1,16 +1,15 @@
-### Hi there 👋
+# Olá, Bem Vindo Eu Sou Wesley 👋
 
-<!--
-**WesleyJSToledo/WesleyJSToledo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudo Análise e Desenvolvimento de Sistemas pela Fatec - Taubaté.
 
-Here are some ideas to get you started:
+Sou Apaixonado por técnologia desde crinça, começei a estudar programação sozinho com 17 anos e um ano depois entrei na faculdade.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu atual objetivo é me tornar um Desenvolvedor Back-end.
+___
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesleyjstoledo)
+
+## 💻Tecnologias em Estudo💻
+
+- Java
+- C/C++
+- Banco de Dados
