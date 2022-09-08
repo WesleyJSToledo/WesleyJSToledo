@@ -1,8 +1,8 @@
-# Olá, Bem Vindo Eu Sou Wesley 👋
+#Olá, Bem Vindo Eu Sou Wesley 👋
 
 Estudo Análise e Desenvolvimento de Sistemas pela Fatec - Taubaté.
 
-Sou Apaixonado por técnologia desde crinça, começei a estudar programação sozinho com 17 anos e um ano depois entrei na faculdade.
+Sou Apaixonado por técnologia desde criança, começei a estudar programação sozinho com 17 anos e um ano depois entrei na faculdade.
 
 Meu atual objetivo é me tornar um Desenvolvedor Back-end.
 ___
