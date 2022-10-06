@@ -12,7 +12,7 @@
 
 <p>Estudo Análise e Desenvolvimento de Sistemas pela Fatec - Taubaté.</p>
 <p>Sou Apaixonado por tecnologia desde criança, comecei a estudar programação sozinho com 17 anos e um ano depois entrei na faculdade.</p>
-<p>Meu atual objetivo é me tornar um Desenvolvedor Back-end.</p>
+<p>Meu atual objetivo é me aperfeiçoar em tecnologias voltada ao Back-end me lapidando com Desenvolvedor.</p>
 <br>
 
 <div align="center">
