@@ -5,7 +5,6 @@
   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesleyjstoledo)
   [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5512997660206&text=Ol%C3%A1%20me%20chamo%20Wesley)
   [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wesleyjstoledo@gmail.com)
-  [![Spotfy](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https:Linguagens//open.spotify.com/user/1irav3nvsksagrlc9dpj6qtlh?si=0Zc4M5mcRMC0SNbyoamYpA&utm_source=copy-link)
 </div>
 
 <h2>SOBRE MIM:</h2>
