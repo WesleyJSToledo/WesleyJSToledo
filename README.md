@@ -15,8 +15,8 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/WesleyJSToledo/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WesleyJStoledo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=WesleyJSToledo&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="WesleyJSToledo" />
+<img height="165em" src="https://github-readme-streak-stats.herokuapp.com?user=WesleyJSToledo&theme=dark&date_format=j%2Fn%5B%2FY%5D" alt="WesleyJSToledo" />
 </div>
 
 
