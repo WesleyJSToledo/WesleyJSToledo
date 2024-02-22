@@ -16,8 +16,8 @@
 
 <div align="center">
   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com?user=WesleyJSToledo&theme=dark&date_format=j%2Fn%5B%2FY%5D" alt="WesleyJSToledo" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=WesleyJSToledo&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="WesleyJSToledo"/>
 </div>
-
 
 
 <h3>💻 Tecnologias em Estudo 💻</h3> 
